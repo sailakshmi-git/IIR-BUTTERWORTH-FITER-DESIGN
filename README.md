@@ -105,7 +105,8 @@ xgrid();
 
 ## OUTPUT (HPF) : 
 
-<img width="1920" height="1140" alt="Screenshot 2025-11-15 161844" src="https://github.com/user-attachments/assets/d4decb5f-ecbc-4740-abce-382a5dad5cd0" />
+<img width="1038" height="911" alt="image" src="https://github.com/user-attachments/assets/afcc7854-c4d2-43ab-8c71-71c186a7e442" />
+
 
 
 ## RESULT: 
